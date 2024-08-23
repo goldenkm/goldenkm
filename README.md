@@ -27,12 +27,14 @@ I am a senior student at Beihang University. I specialize in School of Computer 
   - Generative Model
   - Soft Engineering
   - **Maybe** Computer organization and System
+
 In summary, I love anything creative. In other word, I enjoy the feeling of creating a mini world in my programme, no matter it contains dozens or thoussands of lines.
 
 - My hobbies:
   - Basketball
   - Basketball Referee
   - Talkshow or Stand-up Comedy
+
 By the way, I love Steph Curry and Jay chou
 
 ### 🥇 My Awards:
