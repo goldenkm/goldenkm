@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 Who am I?
----
 I am a senior student at Beihang University. I specialize in School of Computer Science and Engineering and have 3 years of experience. I love working on projects that involve Computer Science & Artificial Intelligence.
 
 ### 📚 My Educational Background
@@ -24,7 +23,6 @@ I am a senior student at Beihang University. I specialize in School of Computer 
 - 2021-2025 School of Computer Science and Engineering, Beihang University
 
 ### 💡 My Interests:
----
 My professional interests:
 - Generative Model
 - Soft Engineering
