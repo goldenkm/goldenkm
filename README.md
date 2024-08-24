@@ -41,6 +41,9 @@ By the way, I love Steph Curry and Jay chou
 Waiting to fill in...
 
 ### 📃 My Papers:
+Waiting to fill in...
+
+### 🔗 Connect With Me
 - 📩 Email: 21373035@buaa.edu.cn
 - GitHub: goldenkm
 - 💬 WeChat: jin20021104
