@@ -1,4 +1,4 @@
-## Hi, I'm Kaiming Jin
+## Hi, I'm JIN Kaiming
 
 <!--
 **goldenkm/goldenkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,26 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 Who am I?
-I am a senior student at Beihang University. I specialize in School of Computer Science and Engineering and have 3 years of experience. I love working on projects that involve Computer Science & Artificial Intelligence.
+I am a master student at National University of Singapore (NUS). I obtained my Bachelor's degree in Beihang University (BUAA). I specialize in School of Computer Science and Engineering. I love working on projects that involve Computer Science & Artificial Intelligence.
 
 ### 📚 My Educational Background
 - 2018-2021 Beijing No.80 High School
 - 2021-2025 School of Computer Science and Engineering, Beihang University
 
-### 💡 My Interests:
-- My professional interests:
-  - Generative Model
-  - Soft Engineering
-  - **Maybe** Computer organization and System
+### 💡 Research Interests:
+- LLMs/MLLMs/Agentic LLMs
+- AIGC
+- Soft Engineering
 
-In summary, I love anything creative. In other word, I enjoy the feeling of creating a mini world in my programme, no matter it contains dozens or thoussands of lines.
-
-- My hobbies:
-  - Basketball
-  - Basketball Referee
-  - Talkshow or Stand-up Comedy
-
-By the way, I love Steph Curry and Jay chou
 
 ### 🥇 My Awards:
 Waiting to fill in...
@@ -44,6 +35,6 @@ Waiting to fill in...
 Waiting to fill in...
 
 ### 🔗 Connect With Me
-- 📩 Email: 21373035@buaa.edu.cn
+- 📩 Email: jinkaiming1104@gmail.com
 - GitHub: goldenkm
 - 💬 WeChat: jin20021104
