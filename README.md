@@ -19,17 +19,13 @@ Here are some ideas to get you started:
 I am a master student at National University of Singapore (NUS). I obtained my Bachelor's degree in Beihang University (BUAA). I specialize in School of Computer Science and Engineering. I love working on projects that involve Computer Science & Artificial Intelligence.
 
 ### 📚 My Educational Background
-- 2018-2021 Beijing No.80 High School
-- 2021-2025 School of Computer Science and Engineering, Beihang University
+- 2018 - 2021 Beijing No.80 High School
+- 2021 - 2025 School of Computer Science and Engineering, Beihang University
+- 2025 - present National University of Singapore
 
 ### 💡 Research Interests:
-- LLMs/MLLMs/Agentic LLMs
-- AIGC
-- Soft Engineering
-
-
-### 🥇 My Awards:
-Waiting to fill in...
+- LLMs / MLLMs
+- Agentic LLMs (GUI Agents)
 
 ### 📃 My Papers:
 Waiting to fill in...
@@ -37,4 +33,3 @@ Waiting to fill in...
 ### 🔗 Connect With Me
 - 📩 Email: jinkaiming1104@gmail.com
 - GitHub: goldenkm
-- 💬 WeChat: jin20021104
