@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 Who am I?
-I am a master student at National University of Singapore (NUS). I obtained my Bachelor's degree in School of Computer Science and Engineering, Beihang University (BUAA). I love working on projects that involve Computer Science & Artificial Intelligence.
+I am a master student at National University of Singapore (NUS). I obtained my Bachelor's degree in School of Computer Science and Engineering, Beihang University (BUAA).
 
 ### 📚 My Educational Background
-- 2018.9 - 2021.6, Beijing No.80 High School
 - 2021.9 - 2025.6, School of Computer Science and Engineering, Beihang University
 - 2025.8 - present, Data Science and Machine Learning, National University of Singapore
 
@@ -31,7 +30,9 @@ I am a master student at National University of Singapore (NUS). I obtained my B
 - Agentic LLMs (GUI Agents / Computer-Using Agents)
 
 ### 📃 My Papers:
-1. [OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/pdf/2601.07779)<br>
+1. [Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation](https://arxiv.org/pdf/2602.18941)<br>
+  **Kaiming Jin**, Yue Wu, Shengqiong Wu†, Bobo Li, Shuicheng Yan, Tat-Seng Chua
+2. [OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/pdf/2601.07779)<br>
   Bowen Yang\*, **Kaiming Jin\***, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Qingyun Li, Yian Wang, Yu Qiao, Zun Wang, Zichen Ding&dagger;
 
 
