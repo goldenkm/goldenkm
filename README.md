@@ -22,7 +22,7 @@ I am a master student at National University of Singapore (NUS). I obtained my B
 - 2021.9 - 2025.6, School of Computer Science and Engineering, Beihang University
 - 2025.8 - present, Data Science and Machine Learning, National University of Singapore
 
-### Research Experiences
+### 📖 Research Experiences
 - 2025.10 - present, Shanghai AI Lab
 
 ### 🔧 Internship
