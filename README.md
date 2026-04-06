@@ -22,6 +22,9 @@ I am a master student at National University of Singapore (NUS). I obtained my B
 - 2021.9 - 2025.6, School of Computer Science and Engineering, Beihang University
 - 2025.8 - present, Data Science and Machine Learning, National University of Singapore
 
+### Research Experiences
+- 2025.10 - present, Shanghai AI Lab
+
 ### 🔧 Internship
 - 2024.12 - 2025.4, Zhipu AI
 
@@ -33,7 +36,7 @@ I am a master student at National University of Singapore (NUS). I obtained my B
 1. [Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation](https://arxiv.org/pdf/2602.18941)<br>
   **Kaiming Jin**, Yue Wu, Shengqiong Wu&dagger;, Bobo Li, Shuicheng Yan, Tat-Seng Chua. ***(Preprint)***
 2. [OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/pdf/2601.07779)<br>
-  Bowen Yang\*, **Kaiming Jin\***, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Qingyun Li, Yian Wang, Yu Qiao, Zun Wang, Zichen Ding&dagger;. ***(Preprint)***
+  Bowen Yang\*, **Kaiming Jin\***, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Qingyun Li, Yian Wang, Yu Qiao, Zun Wang, Zichen Ding&dagger;. ***(ACL 2026 Main)***
 3. [Intelligent Deepwater Energy Development: flow assurance monitoring and smart decision-making system](https://doi.org/10.59717/j.xinn-energy.2025.100081)<br>
    Jiguang Wang, Bowen Yang, **Kaiming Jin**, Lunxiang Zhang&dagger;, Linhe Wang, Bo Jiang&dagger;, Haiyuan Yao, Yongchen Song&dagger;. ***(The Innovation Energy 2025)***
 
