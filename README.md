@@ -23,14 +23,15 @@ I am a master student at National University of Singapore (NUS). I obtained my B
 - 2025.8 - present, Data Science and Machine Learning, National University of Singapore
 
 ### 📖 Research Experiences
-- 2025.10 - present, Shanghai AI Lab
+- 2025.10 - 2026.5, Shanghai AI Lab, Remote
 
 ### 🔧 Internship
-- 2024.12 - 2025.4, Zhipu AI
+- 2026.5  - present, Miromind AI, Singapore
+- 2024.12 - 2025.4, Zhipu AI, Beijing
 
 ### 💡 Research Interests:
 - LLMs / MLLMs
-- Agentic LLMs (GUI Agents / Computer-Using Agents)
+- Agentic LLMs (GUI Agents / Computer-Using Agents / Deep Research)
 
 ### 📃 My Papers:
 1. [Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation](https://arxiv.org/pdf/2602.18941)<br>
