@@ -26,8 +26,8 @@ I am a master student at National University of Singapore (NUS). I obtained my B
 - 2025.10 - 2026.5, Shanghai AI Lab, Remote
 
 ### 🔧 Internship
-- 2026.5  - present, Miromind AI, Singapore
-- 2024.12 - 2025.4, Zhipu AI, Beijing
+- 2026.5  - present, Apodex (MiroMind), Singapore, Foundation Model Intern
+- 2024.12 - 2025.4, Zhipu AI, Beijing, LLM Algorithm Intern
 
 ### 💡 Research Interests:
 - LLMs / MLLMs
